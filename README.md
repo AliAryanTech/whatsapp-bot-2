@@ -4,7 +4,7 @@
 # WHATSAPP-BOT-MD
  WhatsApp with so Many features using multi device  [BAILEYS](https://github.com/adiwajshing/baileys)
  
-  Thanks to [Zhwzein](https://github.com/zhwzein) and [zenz api](https://zenzapis.xyz)
+  Thanks to [Zhwzein](https://github.com/zhwzin) and [zenz api](https://zenzapis.xyz)
 
 ## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
